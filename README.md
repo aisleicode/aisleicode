@@ -1,4 +1,12 @@
-## Hi there 👋
+
+# Hello there 👋
+I am Aislei，a soft。
+
+### 📚 Daily
+I usually share study notes and personal little projects here.
+
+### 📫 Contact me
+email: qixun.lei@gmail.com
 
 <!--
 **aisleicode/aisleicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
